@@ -117,5 +117,4 @@ This guide provides best practices and tips for optimizing the performance and r
 
 ---
 
-*Feel free to customize this guide based on your project's needs!*
 
